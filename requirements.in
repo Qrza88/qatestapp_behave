@@ -1,0 +1,17 @@
+behave
+chardet
+configparser
+colorama
+configparser
+crayons
+idna
+parse
+parse-type
+pip
+pip-tools
+requests
+selenium
+setuptools
+six
+urllib3
+webdriver-manager
